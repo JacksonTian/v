@@ -8,7 +8,57 @@
         "coordinates": [120.02, 30.28]
       },
       "properties": {
-        "name": "HangZhou"
+        "name": "杭州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.53, 29.54]
+      },
+      "properties": {
+        "name": "重庆"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.97, 28.21]
+      },
+      "properties": {
+        "name": "长沙"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.40, 39.91]
+      },
+      "properties": {
+        "name": "北京"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.77, 32.05]
+      },
+      "properties": {
+        "name": "南京"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.06, 30.67]
+      },
+      "properties": {
+        "name": "成都"
       }
     }
   ]

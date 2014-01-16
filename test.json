@@ -15,6 +15,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [110.26, 25.26]
+      },
+      "properties": {
+        "name": "桂林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [121.48, 31.24]
       },
       "properties": {

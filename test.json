@@ -15,6 +15,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [121.48, 31.24]
+      },
+      "properties": {
+        "name": "上海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [106.53, 29.54]
       },
       "properties": {

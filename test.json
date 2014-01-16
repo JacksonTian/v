@@ -5,20 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [125.6, 10.1]
+        "coordinates": [120.02, 30.28]
       },
       "properties": {
-        "name": "Dinagat Islands"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [38.65, 104.07]
-      },
-      "properties": {
-        "name": "杭州"
+        "name": "HangZhou"
       }
     }
   ]

@@ -10,6 +10,16 @@
       "properties": {
         "name": "Dinagat Islands"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.65, 104.07]
+      },
+      "properties": {
+        "name": "杭州"
+      }
     }
   ]
 }
